@@ -8,10 +8,21 @@
 
 > Linux Installer by jojihatzz
 
-## Install
+## Update
 
 ```sh
 sudo apt update
+```
+
+
+## Useful commands
+Copy applications shortcut from 
+```sh
+/var/lib/snapd/desktop/applications/
+```
+to
+```sh
+ /usr/share/applications/
 ```
 
 ## Author
