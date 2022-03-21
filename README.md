@@ -17,11 +17,17 @@ sudo apt update
 ## Install Default Programs
 
 ```sh
-sudo apt-get install htop neofetch stacer googler python3-pip
+sudo apt-get install htop neofetch stacer googler python3-pip timeshift steam
 ```
 
 
+## Enable snapd
 
+```sh
+sudo apt update
+sudo apt install snapd
+sudo snap install core
+```
 
 
 ## Useful commands
