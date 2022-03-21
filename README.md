@@ -13,13 +13,14 @@
 ```sh
 sudo apt update
 ```
+<br />
 
 ## Install Default Programs
 
 ```sh
 sudo apt-get install htop neofetch stacer googler python3-pip timeshift steam
 ```
-
+<br />
 
 ## Enable snapd
 
@@ -28,7 +29,7 @@ sudo apt update
 sudo apt install snapd
 sudo snap install core
 ```
-[SnapStore:](https://snapcraft.io/store)
+[SnapStore](https://snapcraft.io/store)<br />
 
 
 ## Useful commands
