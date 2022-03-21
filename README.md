@@ -28,6 +28,7 @@ sudo apt update
 sudo apt install snapd
 sudo snap install core
 ```
+[SnapStore:](https://snapcraft.io/store)
 
 
 ## Useful commands
