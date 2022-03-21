@@ -26,8 +26,6 @@ $ apropos delete
 ```
 
 
-
-
 ## Author
 
 👤 **jojihatzz**
