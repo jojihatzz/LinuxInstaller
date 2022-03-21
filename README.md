@@ -14,6 +14,15 @@
 sudo apt update
 ```
 
+## Install Default Programs
+
+```sh
+sudo apt-get install htop neofetch googler python3-pip
+```
+
+
+
+
 
 ## Useful commands
 Copy applications shortcut from 
