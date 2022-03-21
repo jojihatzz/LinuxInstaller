@@ -18,12 +18,15 @@ sudo apt update
 ## Useful commands
 Copy applications shortcut from 
 ```sh
-/var/lib/snapd/desktop/applications/
+/var/lib/snapd/desktop/applications/  to  /usr/share/applications/
 ```
-to
+The apropos command searches manual page names and descriptions for a user-supplied keyword. Following is its syntax:
 ```sh
- /usr/share/applications/
+$ apropos delete
 ```
+
+
+
 
 ## Author
 
