@@ -18,7 +18,7 @@ sudo apt update
 ## Install Default Programs
 
 ```sh
-sudo apt-get install htop neofetch stacer googler python3-pip timeshift steam vlc
+sudo apt-get install htop neofetch stacer googler python3-pip timeshift vlc
 ```
 <br />
 
