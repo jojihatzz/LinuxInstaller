@@ -43,6 +43,7 @@ The apropos command searches manual page names and descriptions for a user-suppl
 $ apropos delete
 ```
 <br />
+  ***
 
 ## Author
 
@@ -50,14 +51,10 @@ $ apropos delete
 
 * Github: [@jojihatzz](https://github.com/jojihatzz)
   <br />
-## Show your support
-
-Give a ⭐️ if this project helped you!
-    <br />
+***
 ## 📝 License
 
 Copyright © 2022 [jojihatzz](https://github.com/jojihatzz).<br />
 This project is [MIT](https://github.com/jojihatzz/LinuxInstaller/blob/main/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
