@@ -1,4 +1,9 @@
 <h1 align="center">LinuxInstaller</h1>
+
+
+![alt text](https://i0.wp.com/www.synergytekconsulting.com/wp-content/uploads/2017/05/Linux-logo-without-version-number-banner-sized-1.jpg?fit=1344%2C742&ssl=1)
+
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/jojihatzz/LinuxInstaller/blob/main/LICENSE" target="_blank">
@@ -9,7 +14,6 @@
 > Linux Installer by jojihatzz
 
 
-![alt text](https://i0.wp.com/www.synergytekconsulting.com/wp-content/uploads/2017/05/Linux-logo-without-version-number-banner-sized-1.jpg?fit=1344%2C742&ssl=1)
 
 
 
